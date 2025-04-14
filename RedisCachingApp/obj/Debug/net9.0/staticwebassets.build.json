@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "FDB09v6Xg+6BzP11t3s8ZvQWfDxwVHOgL+k5+zDLi2o=",
+  "Source": "RedisCachingApp",
+  "BasePath": "_content/RedisCachingApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

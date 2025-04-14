@@ -1,0 +1,12 @@
+POST http://localhost:5058/store
+
+###
+
+GET http://localhost:5058/retrieve
+
+###
+
+DELETE http://localhost:5058/remove
+
+###
+GET http://localhost:5058/monitor
