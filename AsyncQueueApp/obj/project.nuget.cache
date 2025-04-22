@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6phE0YBbO/8=",
+  "success": true,
+  "projectFilePath": "E:\\Учёба\\Programming\\Projects\\msFS\\PerfomanceOptimizationAndScalability\\AsyncQueueApp\\AsyncQueueApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tpec\\.nuget\\packages\\system.threading.channels\\9.0.4\\system.threading.channels.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

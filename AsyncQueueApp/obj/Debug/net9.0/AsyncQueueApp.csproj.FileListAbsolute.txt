@@ -1,0 +1,15 @@
+E:\Учёба\Programming\Projects\msFS\PerfomanceOptimizationAndScalability\AsyncQueueApp\bin\Debug\net9.0\AsyncQueueApp.exe
+E:\Учёба\Programming\Projects\msFS\PerfomanceOptimizationAndScalability\AsyncQueueApp\bin\Debug\net9.0\AsyncQueueApp.deps.json
+E:\Учёба\Programming\Projects\msFS\PerfomanceOptimizationAndScalability\AsyncQueueApp\bin\Debug\net9.0\AsyncQueueApp.runtimeconfig.json
+E:\Учёба\Programming\Projects\msFS\PerfomanceOptimizationAndScalability\AsyncQueueApp\bin\Debug\net9.0\AsyncQueueApp.dll
+E:\Учёба\Programming\Projects\msFS\PerfomanceOptimizationAndScalability\AsyncQueueApp\bin\Debug\net9.0\AsyncQueueApp.pdb
+E:\Учёба\Programming\Projects\msFS\PerfomanceOptimizationAndScalability\AsyncQueueApp\obj\Debug\net9.0\AsyncQueueApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учёба\Programming\Projects\msFS\PerfomanceOptimizationAndScalability\AsyncQueueApp\obj\Debug\net9.0\AsyncQueueApp.AssemblyInfoInputs.cache
+E:\Учёба\Programming\Projects\msFS\PerfomanceOptimizationAndScalability\AsyncQueueApp\obj\Debug\net9.0\AsyncQueueApp.AssemblyInfo.cs
+E:\Учёба\Programming\Projects\msFS\PerfomanceOptimizationAndScalability\AsyncQueueApp\obj\Debug\net9.0\AsyncQueueApp.csproj.CoreCompileInputs.cache
+E:\Учёба\Programming\Projects\msFS\PerfomanceOptimizationAndScalability\AsyncQueueApp\obj\Debug\net9.0\AsyncQueueApp.sourcelink.json
+E:\Учёба\Programming\Projects\msFS\PerfomanceOptimizationAndScalability\AsyncQueueApp\obj\Debug\net9.0\AsyncQueueApp.dll
+E:\Учёба\Programming\Projects\msFS\PerfomanceOptimizationAndScalability\AsyncQueueApp\obj\Debug\net9.0\refint\AsyncQueueApp.dll
+E:\Учёба\Programming\Projects\msFS\PerfomanceOptimizationAndScalability\AsyncQueueApp\obj\Debug\net9.0\AsyncQueueApp.pdb
+E:\Учёба\Programming\Projects\msFS\PerfomanceOptimizationAndScalability\AsyncQueueApp\obj\Debug\net9.0\AsyncQueueApp.genruntimeconfig.cache
+E:\Учёба\Programming\Projects\msFS\PerfomanceOptimizationAndScalability\AsyncQueueApp\obj\Debug\net9.0\ref\AsyncQueueApp.dll
